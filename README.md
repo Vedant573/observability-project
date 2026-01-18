@@ -60,13 +60,17 @@ Through this project, I gained practical experience with:
 ## 📸 Screenshots
 
 ### Metrics Dashboard
-<img width="1908" height="858" alt="Screenshot 2026-01-14 172233" src="https://github.com/user-attachments/assets/7efb9409-c31b-46a0-b56f-e04c3e27a143" />
-<img width="1689" height="891" alt="Screenshot 2026-01-14 170613" src="https://github.com/user-attachments/assets/ab0e67a0-6342-4ec6-99d2-765cecd08df8" />
+<img width="1899" height="863" alt="Screenshot 2026-01-14 170745" src="https://github.com/user-attachments/assets/07df12c7-f3e7-4e4c-ac20-61b72ec62bfd" />
+<img width="1900" height="860" alt="Screenshot 2026-01-14 170636" src="https://github.com/user-attachments/assets/82ef3d2b-fe23-45c3-894d-cf7d6f98de14" />
+<img width="1899" height="863" alt="Screenshot 2026-01-14 171250" src="https://github.com/user-attachments/assets/8fa8152a-ccd2-438f-8815-49efcdaa972b" />
+<img width="1908" height="858" alt="Screenshot 2026-01-14 172233" src="https://github.com/user-attachments/assets/f71b7934-793b-4b0e-aad1-9bfa9d1dafa4" />
+
 *Performance metrics collected via OpenTelemetry*
 
 ### JaegerUI
-<img width="1918" height="867" alt="Screenshot 2026-01-14 171049" src="https://github.com/user-attachments/assets/5436c2dc-f59a-4fad-975a-82dc752a5f9c" />
-<img width="1917" height="862" alt="Screenshot 2026-01-14 170940" src="https://github.com/user-attachments/assets/b4c233da-b470-42be-9fca-f3d36cd90c50" />
+<img width="1917" height="862" alt="Screenshot 2026-01-14 170940" src="https://github.com/user-attachments/assets/4cc472a2-afa2-4da5-9a4b-3581be374d31" />
+<img width="1917" height="866" alt="Screenshot 2026-01-14 171027" src="https://github.com/user-attachments/assets/f0d59412-4a13-4579-ad0a-9a5db9d8d984" />
+
 
 *Visual representation of microservice interactions*
 
